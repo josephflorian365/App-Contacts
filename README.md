@@ -7,3 +7,6 @@
 
 # issues
 - sudo apt-get install libmysqlclient-dev
+
+# create account
+- https://www.clever-cloud.com/
